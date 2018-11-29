@@ -1,0 +1,5 @@
+ID,X,Y,CityName
+Point_1,2,1,"['New York', 'Cairo']"
+Point_2,10,1,Paris
+Point_3,100,1000,Alex
+Point_4,4,8,None
